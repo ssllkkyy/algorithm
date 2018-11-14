@@ -1,0 +1,2 @@
+# algorithm
+java mini algorithm
